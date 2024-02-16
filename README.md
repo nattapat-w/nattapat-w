@@ -40,9 +40,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-<h2 align="left">Most Used Langauges</h2>
+<h2 align="left">🔥 Stats</h2>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nattapat-w&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nattapat-w&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
