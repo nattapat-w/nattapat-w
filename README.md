@@ -1,5 +1,5 @@
 
-<img align="right" height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDgyd2JmYmdrcnUwMG1vY2tqcXd6czJramw4cHNheGlzcTQwZXNpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IauL6LvGNlT3ffhcqq/giphy.gif"  />
+<img align="right" height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDgyd2JmYmdrcnUwMG1vY2tqcXd6czJramw4cHNheGlzcTQwZXNpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IauL6LvGNlT3ffhcqq/giphy.gif"  />
 <h2 align="left">🛠 Language and tools</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
