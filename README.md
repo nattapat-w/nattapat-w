@@ -1,7 +1,7 @@
 
 <br clear="both">
 
-<img align="right" height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThxaWVmaHh0c3pyZGViNmZtNG96YzFza2pqMmlvbTYzcnJzcGU5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oz45ELYgMoYVsZqmor/giphy.gif"  />
+<img align="right" height="80" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThxaWVmaHh0c3pyZGViNmZtNG96YzFza2pqMmlvbTYzcnJzcGU5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oz45ELYgMoYVsZqmor/giphy.gif"  />
 
 ###
 
@@ -43,7 +43,6 @@
 </div>
   <img src="https://streak-stats.demolab.com?user=nattapat-w&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nattapat-w&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img align="right" height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThxaWVmaHh0c3pyZGViNmZtNG96YzFza2pqMmlvbTYzcnJzcGU5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oz45ELYgMoYVsZqmor/giphy.gif"  />
 </div>
 
 ###
