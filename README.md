@@ -1,12 +1,12 @@
+
 <br clear="both">
 
-<div align="center">
-  <img height="500" src="https://64.media.tumblr.com/dbb3ec605979f02dab61f1d98c67576e/tumblr_otb6ajEHRH1qzxv73o1_540.gif"  />
-</div>
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThxaWVmaHh0c3pyZGViNmZtNG96YzFza2pqMmlvbTYzcnJzcGU5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oz45ELYgMoYVsZqmor/giphy.gif"  />
 
 ###
 
-<div align="center">
+<div align="left">
+  <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -41,10 +41,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-
-###
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=nattapat-w&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nattapat-w&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
