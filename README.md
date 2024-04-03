@@ -6,7 +6,7 @@
 ###
 
 <div align="left">
-  <h3 paddign=0 margin=0>Languages and Tools:</h3>
+  <h3>Languages and Tools:</h3>
   <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
