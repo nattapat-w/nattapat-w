@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="700" src="https://64.media.tumblr.com/dbb3ec605979f02dab61f1d98c67576e/tumblr_otb6ajEHRH1qzxv73o1_540.gif"  />
+  <img height="500" src="https://64.media.tumblr.com/dbb3ec605979f02dab61f1d98c67576e/tumblr_otb6ajEHRH1qzxv73o1_540.gif"  />
 </div>
 
 ###
