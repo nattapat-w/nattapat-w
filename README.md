@@ -1,9 +1,13 @@
-<img align="right" width="30%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm52cDQ1amNrazNrbWJqYjNsN3o4Mmh6ZTU3ZXVvZTA5cDNvZjQyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jt8mEC6Kffbwbv2tNH/giphy.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGttbHNxOXA5bDliZWFqZHU2NW5tN2VqbGE0am0xY3pwcmtpdDkzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IuVFGSQZTd6TK/giphy.gif"  />
+</div>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
@@ -40,9 +44,9 @@
 
 ###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=nattapat-w&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nattapat-w&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nattapat-w&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nattapat-w&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
